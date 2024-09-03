@@ -31,8 +31,15 @@ Este es un proyecto de aplicación web de lista de tareas desarrollado con Djang
    ```
 2. Configurar el entorno virtual de Python:
    ```sh
-   python -m venv todo
+   python3 -m venv todo
+   ```
+   Unix o MacOS
+   ```sh
    source todo/bin/activate
+   ```
+   Windows:
+   ```sh
+   todo/Scripts/activate
    ```
 3. Instalar las dependecias de backend
    ```sh
