@@ -27,7 +27,7 @@ Este es un proyecto de aplicación web de lista de tareas desarrollado con Djang
 
    ```sh
    git clone https://github.com/JhandryChimbo/TodoList.git
-   cd TodoList
+   cd TodoList/backend
    ```
 2. Configurar el entorno virtual de Python:
    ```sh
