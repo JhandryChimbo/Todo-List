@@ -6,6 +6,7 @@ Este es un proyecto de aplicación web de lista de tareas desarrollado con Djang
 
 - Crear, leer, actualizar y eliminar tareas.
 - Marcar tareas como completadas.
+<img width="55%" align="right" alt="Github" src="https://github.com/JhandryChimbo/Todo-List/blob/main/Vista-TodoList.png" />
 
 ## Tecnologías
 
